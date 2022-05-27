@@ -1766,7 +1766,7 @@ break
  
  listMsg = {
  buttonText: 'LIST ASUPAN',
- footerText: 'Alpha Botz✓',
+ footerText: 'LexxMd',
  description: `Hai kak☺️ Silahkan pilih menu asupan disini,Gunakan Dengan Bijak Ya kakk`,
  sections: [
                      {
@@ -3093,8 +3093,8 @@ anu = `──────────────────
 NOTE : _DILARANG JUAL SC BOT_
 ──────────────────
 _BASE : DCODE DENPA_
-_SC ORI : Alpha Botz_
-_KANG RECODE : ${NamaOwner}_
+_SC ORI : LexxMd Official_
+_OWNER REAL : ${NamaOwner}_
 ⍟ ────────────────── ⍟`
 buttons = [
 {buttonId:`iklan`, buttonText: {displayText: 'Iklan️'}, type: 1},
